@@ -1,3 +1,5 @@
 {
-  "origins": ["https://p-iknow.netlify.com/"]
+  "origins": [
+    "https://p-iknow.netlify.com"
+  ]
 }
